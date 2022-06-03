@@ -1,0 +1,71 @@
+# Compound database,,,,
+#,,,,
+#,,,,
+# This is a compound formula database file used by Agilent MassHunter applications.,,,,
+# Copy to a different file if you wish to make changes to database contents,,,,
+# You can set the version (below) to any string value. ,,,,
+# We recommend changing it when you update the database contents.,,,,
+#,,,,
+#,,,,
+# Version: the most recent-one,,,,
+#,,,,
+#,,,,
+#,,,,
+# WARNING: User should not change the format of this file.,,,,
+#,,,,
+# Each record in this file contins 5 columns described in the last comment in this comment block.,,,,
+# Retention time and Description are optional.,,,,
+# Each record should be kept on an individual line.,,,,
+# Fields are separated by comma.  Use quotes around a field that contains a comma.,,,,
+#,,,,
+# The first two lines have to be comments which start with the '#' character.,,,,
+# First line is 'Agilent TOF Formula data store',,,,
+# Second line is 'Version:' followed by a version number,,,,
+#,,,,
+# Additionally, comments (such as these) may be inserted on individual,,,
+# lines by specifying a '#' character at the beginning of the line,,,,
+#,,,,
+#,,,,
+### Formula, Retention Time, Mass, Compound name, Description
+ Formula, RT, Mass,Name,Description
+C10H11FO2,,,C10H11FO2,211011
+C10H11FO3,,,C10H11FO3,11011
+C10H12FNO,,,C10H12FNO,100000
+C10H13FO2,,,C10H13FO2,10000
+C10H9FO2,,,C10H9FO2,101111
+C10H9FO3,,,C10H9FO3,511111
+C11H11ClO4,,,C11H11ClO4,100000
+C11H14ClNO,,,C11H14ClNO,111111
+C11H14ClNO2,,,C11H14ClNO2,510111
+C11H14ClNO3,,,C11H14ClNO3,100000
+C11H14ClNO5S,,,C11H14ClNO5S,110
+C12H12FNO4,,,C12H12FNO4,110
+C16H17FO9,,,C16H17FO9,1110
+C16H19FO8,,,C16H19FO8,10000
+C16H19FO9,,,C16H19FO9,10000
+C16H21FO8,,,C16H21FO8,20000
+C17H22ClNO7,,,C17H22ClNO7,11110
+C17H22ClNO8,,,C17H22ClNO8,10220
+C21H18ClFNO,,,C21H18ClFNO,10000
+C21H20ClFNO,,,C21H20ClFNO,10000
+C21H21ClFNO,,,C21H21ClFNO,10000
+C21H21ClFNO3,,,C21H21ClFNO3,100000
+C21H22ClFNO2,,,C21H22ClFNO2,100000
+C21H22ClFNO3,,,C21H22ClFNO3,1000000
+C21H23ClFNO2,,,C21H23ClFNO2,100000
+C21H23ClFNO3,,,C21H23ClFNO3,1011011
+C21H23ClFNO4,,,C21H23ClFNO4,5300000
+C21H23ClFNO5,,,C21H23ClFNO5,1000000
+C21H23ClFNO5S,,,C21H23ClFNO5S,110
+C21H24ClFNO2,,,C21H24ClFNO2,100000
+C21H25ClFNO2,,,C21H25ClFNO2,111111
+C21H25ClFNO3,,,C21H25ClFNO3,1310000
+C21H25ClFNO4,,,C21H25ClFNO4,100000
+C27H31ClFNO8,,,C27H31ClFNO8,111110
+C27H33ClFNO8,,,C27H33ClFNO8,220
+C5H7Cl,,,C5H7Cl,100000
+C5H7ClO,,,C5H7ClO,300000
+C9H11FO,,,C9H11FO,100000
+C9H7FO,,,C9H7FO,100000
+C9H9FO,,,C9H9FO,100000
+C9H9FO2,,,C9H9FO2,500000
